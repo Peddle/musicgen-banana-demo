@@ -1,0 +1,2 @@
+[console_scripts]
+banana = banana_cli:cli
